@@ -1,0 +1,14 @@
+[
+    {
+        "site": "instagram",
+        "action": "BLOCK"
+    },
+    {
+        "site": "google",
+        "action": "BLOCK"
+    },
+    {
+        "site": "netflix",
+        "action": "ALLOW"
+    }
+]
